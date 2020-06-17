@@ -1,5 +1,5 @@
   #################################################################
- # First Part : Get tags from vCenter changin variable $category #
+ # First Part : Get tags from vCenter changing variable $category #
  #################################################################
  # Note : Get-Tags part are from https://code.vmware.com/samples/2808/automated-custom-group-creation-in-vrops-as-per-vcenter-tags#
  # However creating custom group part is not working as expected. So I wrote new powershell script.
